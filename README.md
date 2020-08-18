@@ -32,10 +32,7 @@ Para correr las pruebas ejecutamos la siguiente linea:
 mvn test
 ```
 ## Despliegue en Heroku
-Para ingresar a la aplicación web desde cualquier navegador puede hacerlo desde el siguiente link:
-```
-https://arcane-plateau-03916.herokuapp.com/
-```
+Para ingresar a la aplicación web desde cualquier navegador puede hacerlo dando click [aqui](https://arcane-plateau-03916.herokuapp.com/)
 
 ## Construido con
 * [MAVEN](https://maven.apache.org/) - Administrador de dependencias.
