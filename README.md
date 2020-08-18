@@ -31,17 +31,22 @@ Para correr las pruebas ejecutamos la siguiente linea:
 ```
 mvn test
 ```
+## Despliegue en Heroku
+Para ingresar a la aplicación web desde cualquier navegador puede hacerlo desde el siguiente link:
+```
+https://arcane-plateau-03916.herokuapp.com/
+```
 
 ## Construido con
 * [MAVEN](https://maven.apache.org/) - Administrador de dependencias.
 * [GIT](https://git-scm.com/) - Control de versiones.
 * [JUNIT](https://junit.org/junit5/) - Framework para realizar y automatizar pruebas.
-* [Spark](http://sparkjava.com/) - Framework para el desarrollo de aplicaciones web.
-* [Heroku](https://www.heroku.com/) - Plataforma para el despliegue.
-* Java - Lenguaje de programación.
+* [SPARK](http://sparkjava.com/) - Framework para el desarrollo de aplicaciones web.
+* [HEROKU](https://www.heroku.com/) - Plataforma para el despliegue.
+* JAVA - Lenguaje de programación.
 
 ## Autor
 * **Carlos Murillo** - [Camu10](https://github.com/Camu10)
 
 ## Licencia
-Este proyecto está bajo la Licencia GNU(General Public License) - mira el archivo [LICENSE.md](LICENSE) para detalles.
+Este proyecto está bajo la Licencia GNU(General Public License) - mira el archivo [LICENSE](LICENSE) para detalles.
