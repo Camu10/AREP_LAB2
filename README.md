@@ -40,7 +40,7 @@ Para ingresar a la aplicación web desde cualquier navegador puede hacerlo dando
 * [JUNIT](https://junit.org/junit5/) - Framework para realizar y automatizar pruebas.
 * [SPARK](http://sparkjava.com/) - Framework para el desarrollo de aplicaciones web.
 * [HEROKU](https://www.heroku.com/) - Plataforma para el despliegue.
-* [CIRCLECI][![CircleCI](https://circleci.com/gh/Camu10/AREP_LAB2.svg?style=svg)](https://app.circleci.com/pipelines/github/Camu10/AREP_LAB2) - Palataforma para realizar el integración continua.
+* CIRCLECI - Palataforma para realizar el integración continua. [![CircleCI](https://circleci.com/gh/Camu10/AREP_LAB2.svg?style=svg)](https://app.circleci.com/pipelines/github/Camu10/AREP_LAB2)
 * JAVA - Lenguaje de programación.
 
 ## Autor
